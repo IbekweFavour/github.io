@@ -12,28 +12,6 @@ Employee attrition is a significant challenge for organisations across different
 
 This project focuses on **Employee Attrition Analysis Using Excel**, with the aim of examining employee demographic information, job related characteristics, years of service, performance ratings, satisfaction scores and salary information to understand the factors associated with employee attrition. The project uses an employee dataset containing 15 columns: EmployeeID, Age, Age Range, Gender, Department, Job Role, Years of Service, Performance Rating, Performance Range, Satisfaction Score, Satisfaction Range, Salary, Salary Range, Attrition and Attrition Count. These variables provide an opportunity to investigate employee characteristics, compare attrition patterns across different employee groups and identify possible relationships between workplace satisfaction, compensation, performance, length of service and employees leaving the organ
 
-## 5. Dataset Description
-
-The dataset contains 15 columns representing employee identifiers, demographic characteristics, employment details, performance, satisfaction, compensation and attrition information.
-
-| Column | Description | Analytical purpose |
-|---|---|---|
-| EmployeeID | Unique identifier assigned to each employee | Identify records and check for duplicates |
-| Age | Employee's age | Examine demographic patterns in attrition |
-| Age Range | Grouped age categories | Compare attrition across age groups |
-| Gender | Employee's recorded gender category | Examine attrition patterns across gender categories |
-| Department | Department in which the employee works or worked | Identify departments with different attrition patterns |
-| Job Role | Employee's job position or role | Compare attrition across job roles |
-| Years of Service | Length of time the employee has served the organisation | Investigate attrition by employment tenure |
-| Performance Rating | Recorded employee performance rating | Examine the association between performance and attrition |
-| Performance Range | Grouped performance categories | Compare attrition across performance levels |
-| Satisfaction Score | Numerical employee satisfaction measure | Explore the association between satisfaction and attrition |
-| Satisfaction Range | Grouped satisfaction categories | Identify satisfaction groups with different attrition patterns |
-| Salary | Employee salary amount | Examine compensation patterns and differences |
-| Salary Range | Grouped salary categories | Compare attrition across salary bands |
-| Attrition | Indicates whether an employee has left or remained, according to the dataset's coding | Main outcome variable for attrition analysis and potential prediction |
-| Attrition Count | A count or indicator associated with attrition | Summarise attrition records, subject to verification of its definition |
-
 ## 2. Problem Statement
 
 Employee attrition can create operational and financial challenges for organisations, particularly when experienced employees leave unexpectedly. However, organisations may struggle to identify the employee groups experiencing higher attrition rates and the factors associated with their decisions to leave. Without systematic analysis, human resource departments may rely on assumptions rather than evidence when developing retention strategies. For example, they may not know whether attrition is more common in particular departments, job roles, age groups, salary ranges, or service-length categories. They may also lack a clear understanding of how employee satisfaction and performance ratings relate to attrition. This project addresses the problem by analysing employee data to identify patterns and relationships associated with attrition. It seeks to provide a clearer understanding of the characteristics of employees who leave the organisation compared with those who remain. The findings can help human resource professionals investigate potential areas of concern and develop more targeted retention initiatives.
