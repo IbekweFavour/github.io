@@ -20,7 +20,7 @@ Employee attrition can create operational and financial challenges for organisat
 
 The main aim of this project is to analyse employee demographic, professional, performance, satisfaction and salary data to identify patterns associated with employee attrition and develop data-driven insights that can support employee retention and workforce planning.
 
-## 5. Dataset Description
+## 4. Dataset Description
 
 The dataset contains 15 columns representing employee identifiers, demographic characteristics, employment details, performance, satisfaction, compensation, and attrition information.
 
